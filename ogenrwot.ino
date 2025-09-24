@@ -9,7 +9,7 @@ const char* ssid = "YOUR_SSID";
 const char* password = "YOUR_PASSWORD";
 
 // ===== OpenWeatherMap API Setup =====
-const char* apiKey = "8528f609167426822d208e161fa9b095";
+const char* apiKey = "Enter your api weather key";
 const float latitude = 3.8476;
 const float longitude = 32.2895;
 String weatherUnits = "metric";
@@ -396,3 +396,4 @@ void beepAlert() {
         delay(500);
     }
 }
+
