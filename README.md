@@ -1,2 +1,2 @@
 # Hydration_system
-Modern versions use embedded systems and sensors to track and encourage proper hydration.
+The Modest versions of embedded systems and sensors to track and encourage proper hydration is here.
